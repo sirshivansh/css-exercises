@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.odd {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#two {
+    color: blue;
+    font-size: 36px;
+}
+.third {
+    font-size:24px;
+}
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+## Explanation
+In this CSS file, class selectors (.odd and .third) and ID selectors (#two and #four) are used to style specific elements in the HTML file. The class selector .odd applies styles to all elements with the class "odd", while the ID selectors #two and #four apply styles to the unique elements with those IDs.
